@@ -1,0 +1,4 @@
+Stock Portfolio Summary
+AAPL: 180 x Rs.180 = Rs.32400
+
+Total Investment Value: Rs.32400
